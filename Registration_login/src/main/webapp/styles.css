@@ -1,0 +1,30 @@
+
+body{
+    background-color: cyan;
+}
+
+
+.content1{
+    background: antiquewhite;
+    margin-top: 10%;
+    padding: 50px;
+   box-sizing: border-box;
+   
+   border-radius: 15px;
+}
+.L-BUTTON
+{   padding: auto;
+    background-color: rgb(65, 148, 217);
+    border-radius: 5px;
+}
+
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(17, 17, 100, 0.27);
+    color: white;
+    text-align: center;
+  }
